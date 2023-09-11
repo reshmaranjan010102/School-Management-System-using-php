@@ -1,5 +1,5 @@
 # School-Management-System-using-php
-*Developed by : REshma Ranjan*
+*Front-End Developed by : Reshma Ranjan*
 
 *Refrences: other School management systems from github*
 
